@@ -1,0 +1,5 @@
+echo "Great work completing bandit"
+echo "ptoud of you all"
+echo "best of luck"
+#echo "$9(whoiam)"
+echo $0
